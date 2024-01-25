@@ -1,2 +1,2 @@
 I created the following Shiny App to display Amherst College graduate school enrollment data as part of a project in Data Science (STAT 231). 
-Since the data is not public, the "wrangled_df.csv" found in this folder is randomly generated data: it does not actually represent Amherst graduate school enrollment data.
+Since the data is not public, the "wrangled_df.csv" found in this folder is randomly generated data: it does not actually represent graduate school enrollment among Amherst alumni.
